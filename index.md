@@ -4,12 +4,21 @@ title: Hanmin Guo
 
 ---
 
-Contact  
-Email: hmguo@bicmr.pku.edu.cn  
-Office: Room 75101-3, Jingchunyuan #78  
-地址：镜春园78号院（怀新园）75101-3  
 
-![fig1](fig1.jpg)
+
+<!-- ![fig1](fig1.jpg) -->
+
+<div style="display: flex; align-items: center;">
+  <div>
+    Contact<br>
+    Email: hmguo@bicmr.pku.edu.cn<br>
+    Office: Room 75101-3, Jingchunyuan #78<br>
+    地址：镜春园78号院（怀新园）75101-3
+  </div>
+  <div>
+    <img src="fig1.jpg" alt="Photo" width="200">
+  </div>
+</div>
 
 I'm an assistant professor in the Beijing International Center for Mathematical Research and the Department of Biostatistics at Peking University. 
 
