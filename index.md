@@ -9,6 +9,7 @@ Email: hmguo@bicmr.pku.edu.cn
 Office: Room 75101-3, Jingchunyuan #78  
 地址：镜春园78号院（怀新园）75101-3  
 
+![fig1](fig1.jpg)
 
 I'm an assistant professor in the Beijing International Center for Mathematical Research and the Department of Biostatistics at Peking University. 
 
