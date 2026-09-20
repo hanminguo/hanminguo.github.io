@@ -21,6 +21,7 @@ author: Hanmin Guo
 
 navbar-links:
   Publications: "publications"
+  Teaching: "teaching"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
