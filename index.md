@@ -10,13 +10,13 @@ title: Hanmin Guo
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="fig1.jpg" alt="Photo" width="300">
+    <img src="fig3.jpg" alt="Photo" width="300">
   </div>
   <div>
-    Contact<br>
-    Email: hmguo@bicmr.pku.edu.cn<br>
-    Office: Room 75101-3, Jingchunyuan #78<br>
-    地址：镜春园78号院（怀新园）75101-3
+      Contact<br>
+      Email: hmguo@bicmr.pku.edu.cn<br>
+      Office: Room 75101-3, Jingchunyuan #78<br>
+      地址：镜春园78号院（怀新园）75101-3
   </div>
 </div>
 
