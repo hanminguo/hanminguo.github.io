@@ -8,7 +8,7 @@ title: Hanmin Guo
 
 <!-- ![fig1](fig1.jpg) -->
 
-<div style="display: flex; align-items: center; gap: 30;">
+<div style="display: flex; align-items: center; gap: 30px;">
   <div>
     <img src="fig3.jpg" alt="Photo" width="300">
   </div>
